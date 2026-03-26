@@ -10,5 +10,5 @@ This repository is under active development and will be continuously updated.
 ## Licence
 [MIT](https://github.com/SungmokJung/Korea_LTBI_ARI/blb/main/LICENSE)
 
-Authors
+##Authors
 [Sung-mok Jung](https://github.com/SungmokJung), Doyoon Kim, Jeungeun Seo, Hongjo Choi.
